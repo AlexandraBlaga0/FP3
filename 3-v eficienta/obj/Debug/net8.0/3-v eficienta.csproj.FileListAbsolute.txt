@@ -1,0 +1,14 @@
+C:\Users\Eu\Desktop\set3\3-v eficienta\bin\Debug\net8.0\3-v eficienta.exe
+C:\Users\Eu\Desktop\set3\3-v eficienta\bin\Debug\net8.0\3-v eficienta.deps.json
+C:\Users\Eu\Desktop\set3\3-v eficienta\bin\Debug\net8.0\3-v eficienta.runtimeconfig.json
+C:\Users\Eu\Desktop\set3\3-v eficienta\bin\Debug\net8.0\3-v eficienta.dll
+C:\Users\Eu\Desktop\set3\3-v eficienta\bin\Debug\net8.0\3-v eficienta.pdb
+C:\Users\Eu\Desktop\set3\3-v eficienta\obj\Debug\net8.0\3-v eficienta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eu\Desktop\set3\3-v eficienta\obj\Debug\net8.0\3-v eficienta.AssemblyInfoInputs.cache
+C:\Users\Eu\Desktop\set3\3-v eficienta\obj\Debug\net8.0\3-v eficienta.AssemblyInfo.cs
+C:\Users\Eu\Desktop\set3\3-v eficienta\obj\Debug\net8.0\3-v eficienta.csproj.CoreCompileInputs.cache
+C:\Users\Eu\Desktop\set3\3-v eficienta\obj\Debug\net8.0\3-v eficienta.dll
+C:\Users\Eu\Desktop\set3\3-v eficienta\obj\Debug\net8.0\refint\3-v eficienta.dll
+C:\Users\Eu\Desktop\set3\3-v eficienta\obj\Debug\net8.0\3-v eficienta.pdb
+C:\Users\Eu\Desktop\set3\3-v eficienta\obj\Debug\net8.0\3-v eficienta.genruntimeconfig.cache
+C:\Users\Eu\Desktop\set3\3-v eficienta\obj\Debug\net8.0\ref\3-v eficienta.dll
